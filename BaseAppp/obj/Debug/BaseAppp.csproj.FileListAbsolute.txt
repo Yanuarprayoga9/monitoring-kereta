@@ -1,0 +1,52 @@
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.csproj.AssemblyReference.cache
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.Properties.Resources.resources
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.csproj.GenerateResource.cache
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.csproj.CoreCompileInputs.cache
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\BaseAppp.exe.config
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\BaseAppp.exe
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\BaseAppp.pdb
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.exe
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.pdb
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\MySql.Data.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\Google.Protobuf.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\ZstdNet.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\System.Buffers.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\bin\Debug\MySql.Data.xml
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.exe.config
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.ui.Login.resources
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.ui.SplashScreen.resources
+C:\Users\yanua\Documents\Semester 4\PBO\BaseAppp\BaseAppp\obj\Debug\BaseAppp.csproj.Up2Date
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.csproj.AssemblyReference.cache
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.exe.config
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.exe
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.pdb
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\BaseAppp.exe.config
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\BaseAppp.exe
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\BaseAppp.pdb
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\MySql.Data.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\Google.Protobuf.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\ZstdNet.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\System.Buffers.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\bin\Debug\MySql.Data.xml
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.Properties.Resources.resources
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.ui.Login.resources
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.ui.SplashScreen.resources
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.csproj.GenerateResource.cache
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.csproj.CoreCompileInputs.cache
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.csproj.Up2Date
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.ui.DashboardUtama.resources
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.ui.SelamatDatang.resources
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.ui.Tiket.resources
+C:\Users\yanua\Documents\base-template-project-main\BaseAppp\obj\Debug\BaseAppp.ui.DetailTiket.resources
